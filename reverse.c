@@ -19,7 +19,7 @@ int main(int argc, char *argv[]){
   // If input is the same as output, error
   if(argc == 3){
     if(strcmp(argv[1], argv[2]) == 0){
-      fprintf(stderr,"Input and output files must differ");
+      fprintf(stderr,"Input and output files must differ\n");
       exit(1);
     }
   }
