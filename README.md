@@ -6,7 +6,7 @@ The first is ./reverse, in which the input comes from the terminal and the outpu
 
 The second is ./reverse \<input\>, in which the input comes from a text file specified and the output is printed to the terminal.
 
-The third is ./reverse input \<output\>, in which the input comes from a text file and the output is printed to a text file.
+The third is ./reverse \<input\> \<output\>, in which the input comes from a text file and the output is printed to a text file.
 
 Some additional assumptions on how the program is supposed to work:
 
